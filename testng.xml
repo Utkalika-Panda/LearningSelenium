@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite">
+    <test verbose="2" preserve-order="true" name="C:/Users/Manas Acharya/IdeaProjects/LearningSelenium"><classes><class name="VWO_LoginScreen">
+        <methods><include name="VWOlogin"/></methods>
+    </class><class name="com.utkalikapanda.MiniProject.Project1"><methods>
+        <include name="Test_Page_sources"/>
+    </methods></class><class name="com.utkalikapanda.MiniProject.Project2"><methods>
+        <include name="Verify_Test"/></methods></class><class name="com.utkalikapanda.MiniProject.Project3">
+        <methods><include name="test_browser_options"/></methods></class><class name="VWO_LoginScreen"><methods><include name="VWOlogin"/></methods></class><class name="com.utkalikapanda.SeleniumMiniproject1.BasicTest"><methods><include name="test"/></methods></class><class name="com.utkalikapanda.SeleniumMiniproject1.ex01_task1"><methods><include name="Login_Functionality"/></methods></class><class name="VWO_LoginScreen"><methods><include name="VWOlogin"/></methods></class></classes></test></suite>
